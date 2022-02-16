@@ -22,5 +22,5 @@ On a personal note, I am a home brewer, a ceramic artist (specialties include al
 
 [![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenEdwards)](https://github.com/helenedwards/github-readme-stats)
 
-### Thanks for checking out my Repo!
+### _Thanks for checking out my Repo!_
 _-Helen_
