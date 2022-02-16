@@ -2,10 +2,15 @@
 ## Hey, I'm Helen...
 <p align="center">JavaScript | Ruby | React | Redux | Rails | Node.js | Express.js | SQL/Postgres | MongoDB | CSS | HTML </p>
 
-### Get in touch! 
+### Let's get in touch! 
 - [LinkedIn](https://www.linkedin.com/in/helen-edwards-96981532/)
 - [Personal Site](#)
 - [Twitter](https://twitter.com/hey_imhelen)
 
+## Github Stats: 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenEdwards)
+
+
+[![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenEdwards)](https://github.com/helenedwards/github-readme-stats)
 
