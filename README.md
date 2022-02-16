@@ -1,5 +1,8 @@
-![h_swe](https://user-images.githubusercontent.com/82063894/154325007-774bdbd0-2677-4608-ba94-e88efc0494ea.png)
-## Hey, I'm Helen...
+![h_swe](https://user-images.githubusercontent.com/82063894/154325007-774bdbd0-2677-4608-ba94-e88efc0494ea.png#gh-light-mode-only)
+![h_swe_darkmode](https://user-images.githubusercontent.com/82063894/154333243-38280d40-b25f-4bf0-9104-c0a37c00d7a0.png#gh-dark-mode-only)
+
+## Hey, I'm Helen...!
+
 <p align="center">JavaScript | Ruby | React | Redux | Rails | Node.js | Express.js | SQL/Postgres | MongoDB | CSS | HTML </p>
 
 ### Let's get in touch! 
