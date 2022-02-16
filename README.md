@@ -5,7 +5,7 @@
 
 <p align="center">JavaScript | Ruby | React | Redux | Rails | Node.js | Express.js | SQL/Postgres | MongoDB | CSS | HTML </p>
 
-### Let's get in touch! 
+### Let's be friends! 
 - [LinkedIn](https://www.linkedin.com/in/helen-edwards-96981532/)
 - [Personal Site](#)
 - [Twitter](https://twitter.com/hey_imhelen)
@@ -23,4 +23,4 @@ On a personal note, I am a home brewer, a ceramic artist (specialties include al
 [![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenEdwards)](https://github.com/helenedwards/github-readme-stats)
 
 ### Thanks for checking out my Repo!
--Helen
+_-Helen_
