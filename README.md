@@ -7,7 +7,7 @@
 
 ### Let's be friends! 
 - [LinkedIn](https://www.linkedin.com/in/helen-edwards-96981532/)
-- [Personal Site](heyimhelen.com)
+- [Personal Site](https://www.heyimhelen.com)
 - [Twitter](https://twitter.com/hey_imhelen)
 
 ## About me: 
