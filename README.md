@@ -17,12 +17,7 @@ After a brief career pause to care for my family, I decided to upskill and refre
 
 On a personal note, I am a home brewer, a ceramic artist (specialties include alternative firing techniques, and Kintsugi - the Japanese art of repairing ceramics with gold).  I bake, collect mineral specimens and meteorites, and am always looking for opportunities to expand my horizons- whether it is traveling to new cultures, learning new crafts or specialties (did I mention I am a PADI certified Shark Conservation Specialist?), or pushing my own boundaries with activities like sky diving or SCUBA. Oh yeah, and 99% of the photos on my phone are of my dog doing silly things.  If you ask to see some, I will send a ridiculous number.
 
-## Github Stats: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenEdwards)
-
-
-[![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenEdwards)](https://github.com/helenedwards/github-readme-stats)
 
 ### _Thanks for checking out my Repo!_
 _-Helen_
