@@ -6,7 +6,7 @@
 <p align="center">JavaScript | Ruby on Rails | Python | React | Redux | Node.js | Express.js | Flask | MongoDB | SQLAlchemy | PostgreSQL | AJAX | JSON | HTML | CSS </p>
 
 ### Let's be friends! 
-- [LinkedIn](https://www.linkedin.com/in/helen-edwards-96981532/)
+- [LinkedIn](https://www.linkedin.com/in/helen-highwater-96981532/)
 - [Personal Site](https://www.heyimhelen.com)
 
 
